@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="amount_text_size">24sp</dimen>
+    <dimen name="note_text_size">18sp</dimen>
+    <dimen name="key_text_size">20sp</dimen>
+    <dimen name="key_margin">5dp</dimen>
+    <dimen name="key_padding">12dp</dimen>
+    <dimen name="amount_height">64dp</dimen>
+    <dimen name="note_row_height">48dp</dimen>
+    <dimen name="section_gap">12dp</dimen>
+</resources>

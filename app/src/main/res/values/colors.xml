@@ -1,0 +1,9 @@
+<resources>
+    <color name="teal">#008577</color>
+    <color name="teal_dark">#00695C</color>
+    <color name="screen_background">#FFFFFF</color>
+    <color name="key_background">#E0E0E0</color>
+    <color name="key_text">#222222</color>
+    <color name="text_primary">#222222</color>
+    <color name="divider">#DDDDDD</color>
+</resources>
