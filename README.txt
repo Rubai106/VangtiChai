@@ -42,19 +42,5 @@ Additional checks
 - Rotate while an amount is entered: amount and counts should persist.
 - The app accepts up to 12 digits to prevent impractically long values.
 
-Device testing note
-------------------
-The project includes resource alternatives intended for the four assignment configurations. This source package was not executed on Android emulators in the file-generation environment; please run the test matrix above in Android Studio and record the actual device/emulator versions you tested before submitting. Do not claim a device was tested unless you have run it.
 
-BUILD FIX (JVM TARGET)
-----------------------
-The app module configures both Java and Kotlin to target JVM 1.8. This avoids the
-'Inconsistent JVM-target compatibility' error when the IDE is running on a newer JDK.
-The JDK used to run Gradle may still be newer; that is separate from the app bytecode target.
-
-If Android Studio still reports a build error:
-1. Use File > Sync Project with Gradle Files.
-2. Open Settings > Build, Execution, Deployment > Build Tools > Gradle.
-3. Select the embedded JDK (or JDK 17 if available) as the Gradle JDK.
-4. Run Build > Clean Project, then Build > Make Project.
 
