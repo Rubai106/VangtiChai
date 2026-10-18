@@ -1,4 +1,4 @@
-﻿VangtiChai â€” CSE 489 Assignment 1
+VangtiChai — CSE 489 Assignment 1
 =================================
 
 What it does
@@ -49,7 +49,7 @@ Actual Device Testing
 ---------------------
 - Device: realme Narzo 70 Turbo (physical Android phone).
 - Tested portrait and landscape orientations.
-- Verified that the entered amount (à§³78) and calculated note counts
+- Verified that the entered amount (৳78) and calculated note counts
   remained unchanged after rotating the device.
 - Verified that the layout changes appropriately between orientations.
 
