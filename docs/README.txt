@@ -44,3 +44,13 @@ Additional checks
 
 
 
+
+Actual Device Testing
+---------------------
+- Device: realme Narzo 70 Turbo (physical Android phone).
+- Tested portrait and landscape orientations.
+- Verified that the entered amount (৳78) and calculated note counts
+  remained unchanged after rotating the device.
+- Verified that the layout changes appropriately between orientations.
+
+Note: Pixel XL and Nexus 10 emulator testing has not been completed.
