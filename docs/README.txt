@@ -53,5 +53,5 @@ Actual Device Testing
   remained unchanged after rotating the device.
 - Verified that the layout changes appropriately between orientations.
 
-Note: Pixel XL and Nexus 10 emulator testing has not been completed.
+Pixel XL and Nexus 10 emulator testing was completed in portrait and landscape.
 
