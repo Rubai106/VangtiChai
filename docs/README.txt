@@ -1,4 +1,4 @@
-VangtiChai — CSE 489 Assignment 1
+﻿VangtiChai â€” CSE 489 Assignment 1
 =================================
 
 What it does
@@ -9,7 +9,7 @@ What it does
 - Calculates the number of each Taka note using denominations 500, 100, 50, 20, 10, 5, 2, 1.
 - Saves the entered amount across orientation changes and restores the note counts.
 - Uses ConstraintLayout and separate XML layout resources for phone/tablet and portrait/landscape configurations.
-- Text sizes, padding, and margins are defined in dimens.xml resources, not hardcoded in layout XML.
+- Text sizes, padding, and margins are defined in sizes.xml resources, not hardcoded in layout XML.
 
 Requirements
 ------------
@@ -49,8 +49,9 @@ Actual Device Testing
 ---------------------
 - Device: realme Narzo 70 Turbo (physical Android phone).
 - Tested portrait and landscape orientations.
-- Verified that the entered amount (৳78) and calculated note counts
+- Verified that the entered amount (à§³78) and calculated note counts
   remained unchanged after rotating the device.
 - Verified that the layout changes appropriately between orientations.
 
 Note: Pixel XL and Nexus 10 emulator testing has not been completed.
+
