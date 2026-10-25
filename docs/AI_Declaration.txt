@@ -1,0 +1,66 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Samin Yeasar Rubai
+Student ID: 23201275
+Assignment: VangtiChai Android App
+Date: 25 October 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[x] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[ ] Debugging my code
+[ ] Generating code snippets
+[x] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT mainly to understand parts of my existing Android project
+and prepare for the viva. It helped explain the MainActivity code, how the
+app calculates denomination counts, how the entered amount is saved and
+restored, and how Android selects different XML layouts for screen sizes
+and orientation. ChatGPT also helped me phrase this disclosure. I reviewed
+the explanations to improve my understanding of the project.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: app/src/main/java/com/example/vangtichai/MainActivity.kt
+Section: Explanation of input handling, updateDisplay(), and saved instance state.
+
+File: app/src/main/res/layout/activity_main.xml and layout variants
+Section: Explanation of shared view IDs, and how the
+         XML views connect to MainActivity.
+
+File: docs/AI_Declaration.txt
+Section: Wording of this AI usage disclosure.
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Rubai
+Date: 25/10/2026
+
