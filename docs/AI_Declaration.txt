@@ -49,9 +49,6 @@ File: app/src/main/res/layout/activity_main.xml and layout variants
 Section: Explanation of shared view IDs, and how the
          XML views connect to MainActivity.
 
-File: docs/AI_Declaration.txt
-Section: Wording of this AI usage disclosure.
-
 ------------------------------------------------------------
 5. DECLARATION
 ------------------------------------------------------------
