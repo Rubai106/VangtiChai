@@ -33,11 +33,9 @@ Date: 25 October 2026
 3. DESCRIPTION OF AI USE
 ------------------------------------------------------------
 I used ChatGPT mainly to understand parts of my existing Android project
-and prepare for the viva. It helped explain the MainActivity code, how the
-app calculates denomination counts, how the entered amount is saved and
+and prepare for the viva. It helped explain the MainActivity code, how the entered amount is saved and
 restored, and how Android selects different XML layouts for screen sizes
-and orientation. ChatGPT also helped me phrase this disclosure. I reviewed
-the explanations to improve my understanding of the project.
+and orientation. I reviewed the explanations to improve my understanding of the project.
 
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
